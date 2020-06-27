@@ -1,4 +1,3 @@
-# test
+# Hello
 
-test for readme file
-test for readme file
+Hi~ :P
